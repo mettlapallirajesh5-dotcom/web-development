@@ -5,7 +5,7 @@ Activity Based Learning
 
 **Student Name:** M.Satya Sai Rajesh
 
-**Roll Number:**26001223
+**Roll Number:** 26001223
 
 **Branch:** CSE (AI & ML)
 
@@ -15,7 +15,7 @@ Activity Based Learning
 
 **Subject:** Web Development
 
-**Academic year:**2026-2030
+**Academic year:** 2026-2030
 
 ---
 ### Case Study 1: Game Zone Website
