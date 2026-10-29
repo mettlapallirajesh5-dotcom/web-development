@@ -7,6 +7,7 @@ Activity Based Learning
 **Branch:** CSE (AI & ML)
 **Year:** First Year B.Tech
 **Section:** 06
+**Subject:** Web Development
 
 ---
 ### Case Study 1: Game Zone Website
