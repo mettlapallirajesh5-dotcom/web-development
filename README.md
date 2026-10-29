@@ -21,7 +21,7 @@ Activity Based Learning
 ### Case Study 1: Game Zone Website
 **Description:** A simple gaming website featuring games and gaming-related information.
 
-**Source Code:** [View web-abi.html](./web-abi.html)
+**Source Code:** [View web-abl.html](./web-abl.html)
 
 **Output Screenshot:**
 ![Output 1](./output1.png)
